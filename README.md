@@ -54,12 +54,7 @@ Focado em **POO, design de sistemas, clean code e fundamentos de engenharia**.
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosvinni2006-cmyk&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinni2006-cmyk&layout=compact&theme=tokyonight" />
-</p>
 ---
 
 ## 🚀 Filosofia
