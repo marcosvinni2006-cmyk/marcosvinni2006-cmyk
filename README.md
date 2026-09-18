@@ -12,7 +12,7 @@ Focado em **POO, design de sistemas, clean code e fundamentos de engenharia**.
 
 <p align="left">
   <a href="https://github.com/marcosvinni2006-cmyk">
-    <img src="https://img.shields.io/badge/GitHub-MARCOS_VINICIOS-181717?style=for-the-badge&logo=github" />
+    
   </a>
   <a href="https://www.linkedin.com/in/marcos-v-siqueira">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
